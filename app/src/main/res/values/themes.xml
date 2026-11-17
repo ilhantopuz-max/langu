@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CorvisTranslate" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#07070B</item>
+        <item name="android:navigationBarColor">#07070B</item>
+    </style>
+    <style name="Theme.CorvisTranslate.Splash" parent="Theme.CorvisTranslate" />
+</resources>
